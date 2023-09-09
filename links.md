@@ -1,7 +1,6 @@
 ---
 permalink: LINKS/
 ---
-
 # LINKS
 
 * [ChatGPT](https://chat.openai.com/) --- 
