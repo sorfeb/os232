@@ -18,6 +18,14 @@ ZCZC W00 15 L08 OS Chat related (WA, LIME, Telegram, Signal) with AsDos, Friend,
 ZCZC W00 60 L80 Waching: Movie, YouTube, TV, Netflix, etc.
 ZCZC W00 120 L84 Relax, Rest, Nap, and Sleep
 
+ZCZC W01 60 L05 Quiz related including studying
+ZCZC W01 60 L06 References/Books/Documents/Browsing/GSGS related
+ZCZC W01 30 L08 OS Chat related (WA, LIME, Telegram, Signal) with AsDos, Friend, etc.
+ZCZC W01 60 L29 OS Shoping related: buy a laptop, flashdisk, etc.
+ZCZC W01 30 L63 Fixing Hardware Problems
+ZCZC W01 120 L70 Studying for other courses.
+ZCZC W01 60 L72 Online Related Job, merchant, etc.
+ZCZC W01 75 L84 Relax, Rest, Nap, and Sleep
 
 
 
