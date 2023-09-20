@@ -12,3 +12,18 @@ Take it's answers to mathematical problems with a grain of salt.
 
 * [Write Your Own Operating System From Scratch - Step by Step](https://www.udemy.com/course/writing-your-own-operating-system-from-scratch/?utm_source=adwords&utm_medium=udemyads&utm_campaign=DSA_Catchall_la.EN_cc.ID&utm_term=_._ag_112265177716_._ad_500831051438_._de_c_._dm__._pl__._ti_dsa-483317574145_._li_9072592_._pd__._&gclid=CjwKCAjwr_CnBhA0EiwAci5sigSWDxvBGdt5YZygWK79diwGHXeIejxmH65hgdLy3rhhgXuDSw7dLxoCgwoQAvD_BwE) ---
   Your first step to be the modern day Steve Jobs.
+
+* [You aren't a CS guy if you don't use Reddit](https://www.reddit.com/r/osdev/)
+  Become a part of the largest online community of various things from the most obscure to mainstream.
+
+* [Ask questions from OS enthusiasts](https://forum.osdev.org/)
+  A more specialized forum for OS enthusiasts with questions that you can learn from or answer to.
+
+* [Master Regular Expression](https://regexone.com/)
+  Grind to be the ultimate search engine.
+
+* [Stop using Windows](https://www.youtube.com/watch?v=w8hI4VdFV78)
+  Change to another OS to prove your computer knowledge
+
+* [Make Debian not boring](https://www.layerstack.com/resources/tutorials/How-to-install-Graphical-User-Interface-GUI-for-Debian-11-Cloud-Servers)
+  Install GUI on Debian to ease your Linux learning journey
