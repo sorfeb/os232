@@ -46,7 +46,13 @@ ZCZC W03 5 L21 Trying something.
 ZCZC W03 5 L41 TXT/mylog.txt related.
 ZCZC W03 75 L84 Relax, Rest, Nap, and Sleep
 
-
+ZCZC W04 30 L14 Assignment #04
+ZCZC W04 60 L21 Trying something
+ZCZC W04 5 L03 GitHub and git related, including commit, push, pull
+ZCZC W04 10 L03 GitHub and git related, including commit, push, pull
+ZCZC W04 30 L80 Waching: Movie, YouTube, TV, Netflix, etc.
+ZCZC W04 100 L80 Waching: Movie, YouTube, TV, Netflix, etc.
+ZCZC W04 10 L41 TXT/mylog.txt related.
 
 
 
