@@ -43,5 +43,5 @@ Take it's answers to mathematical problems with a grain of salt.
 * [Learn C!](https://www.w3schools.com/c/) ---
   All-in-one tutorial to learn the programming language C from the basics.
 
-* [Compress with TARBALL](https://www.networkworld.com/article/3328840/working-with-tarballs-on-linux.html)
+* [Compress with TARBALL](https://www.networkworld.com/article/3328840/working-with-tarballs-on-linux.html) ---
   Commands to extract or compress your files to tar!
