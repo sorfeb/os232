@@ -36,3 +36,12 @@ Take it's answers to mathematical problems with a grain of salt.
 
 * [Learn BASHing](https://youtu.be/I4EWvMFj37g?si=k3eMdMC8G_1kGkRI) ---
   An introductory video on how to BASH.
+
+* [Edit your text and codes](https://help.dreamhost.com/hc/en-us/articles/115006413028-Creating-and-editing-a-file-via-SSH) ---
+  Tutorial to edit texts with _nano_ or _vim_.
+
+* [Learn C!](https://www.w3schools.com/c/) ---
+  All-in-one tutorial to learn the programming language C from the basics.
+
+* [Compress with TARBALL](https://www.networkworld.com/article/3328840/working-with-tarballs-on-linux.html)
+  Commands to extract or compress your files to tar!
