@@ -63,6 +63,13 @@ ZCZC W05 5 L61 Install/Reinstall/Restore/Backup Virtual Box
 ZCZC W05 120 L21 Trying something
 ZCZC W05 10 L01 SCELE/Discord related
 ZCZC W05 180 L84 Relax, Rest, Nap, and Sleep
+ZCZC W06 100 L84 Relax, Rest, Nap, and Sleep
+ZCZC W06 120 L80 Waching: Movie, YouTube, TV, Netflix, etc.
+ZCZC W06 120 L21 Trying something
+ZCZC W06 30 L01 SCELE/Discord related
+ZCZC W06 60 L09 Weekly Assignments
+ZCZC W06 30 L09 Weekly Assignments
+ZCZC W06 15 L41 TXT/mylog.txt related.
 
 
 

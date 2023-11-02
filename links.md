@@ -45,3 +45,13 @@ Take it's answers to mathematical problems with a grain of salt.
 
 * [Compress with TARBALL](https://www.networkworld.com/article/3328840/working-with-tarballs-on-linux.html) ---
   Commands to extract or compress your files to tar!
+
+* [What is FORKING](https://man7.org/linux/man-pages/man2/fork.2.html) --- 
+  Thorough explanation about what forking is about
+
+* [Linux Process Management](https://unstop.com/blog/process-management-in-linux) --- 
+  Explains how processes are run in the linux system
+
+* [Stack vs Heap](https://www.linux.com/training-tutorials/stack-vs-heap-whats-difference-and-why-should-i-care/)---
+  Differences of Stack and Heap
+ 
