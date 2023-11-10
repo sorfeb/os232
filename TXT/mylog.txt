@@ -68,11 +68,18 @@ ZCZC W06 120 L80 Waching: Movie, YouTube, TV, Netflix, etc.
 ZCZC W06 120 L21 Trying something
 ZCZC W06 30 L01 SCELE/Discord related
 ZCZC W06 60 L09 Weekly Assignments
-ZCZC W06 30 L09 Weekly Assignments
 ZCZC W06 15 L41 TXT/mylog.txt related.
-
-
-
+ZCZC W07 120 L70 Studying for other courses.
+ZCZC W07 30 L73 Gaming including Board Games.
+ZCZC W07 60 L17 Assignment #07
+ZCZC W07 30 L08 OS Chat related (WA, LIME, Telegram, Signal) with AsDos, Friend, etc.
+ZCZC W07 30 L05 Quiz related including studying
+ZCZC W07 120 L80 Waching: Movie, YouTube, TV, Netflix, etc.
+ZCZC W07 180 L84 Relax, Rest, Nap, and Sleep
+ZCZC W07 120 L81 Listening: Radio, Music, etc.
+ZCZC W07 60 L86 House chore, including helping mom, pap, uncle, aunty, jaga warung, jualan kue, etc.
+ZCZC W07 15 L41 TXT/mylog.txt related.
+ZCZC W07 10 L32 YouTube: watching OS related topics, etc.
 
 
 

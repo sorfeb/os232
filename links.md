@@ -54,4 +54,13 @@ Take it's answers to mathematical problems with a grain of salt.
 
 * [Stack vs Heap](https://www.linux.com/training-tutorials/stack-vs-heap-whats-difference-and-why-should-i-care/)---
   Differences of Stack and Heap
- 
+
+* [What are DEADLOCKS?](https://www.ibm.com/docs/en/db2/9.7?topic=management-deadlocks)---
+  A Brief explanation of what are deadlocks from the IBM documentation
+
+* [Process vs. Thread](https://www.baeldung.com/linux/process-vs-thread)---
+  Differences of these two terms and some examples of both terms
+
+* [POSIX thread libraries](https://www.cs.cmu.edu/afs/cs/academic/class/15492-f07/www/pthreads.html)---
+  Basic tutorial on how to use POSIX thread libraries to execute your software faster
+
