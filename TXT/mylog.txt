@@ -80,7 +80,20 @@ ZCZC W07 120 L81 Listening: Radio, Music, etc.
 ZCZC W07 60 L86 House chore, including helping mom, pap, uncle, aunty, jaga warung, jualan kue, etc.
 ZCZC W07 15 L41 TXT/mylog.txt related.
 ZCZC W07 10 L32 YouTube: watching OS related topics, etc.
-
+ZCZC W08 180 L84 Relax, Rest, Nap, and Sleep
+ZCZC W08 120 L86 House chore, including helping mom, pap, uncle, aunty, jaga warung, jualan kue, etc.
+ZCZC W08 120 L71 Working (General)
+ZCZC W08 30 L70 Studying for other courses.
+ZCZC W08 30 L61 Install/Reinstall/Restore/Backup Virtual Box
+ZCZC W08 10 L26 GnuPG, key-gen, encrypt/decrypt.
+ZCZC W08 30 L27 SSH, key-gen, tunneling, putty, winscp
+ZCZC W08 120 L31 VirtualBox: install GNU/Linux, etc.
+ZCZC W08 120 L80 Waching: Movie, YouTube, TV, Netflix, etc.
+ZCZC W08 120 L33 Podcast incl. Spotify: listening OS related topics, etc.
+ZCZC W08 60 L84 Relax, Rest, Nap, and Sleep
+ZCZC W08 180 L18 Assignment #08
+ZCZC W08 15 L41 TXT/mylog.txt related.
+ZCZC W08 10 L43 TXT/myrank.tex related, including peer review.
 
 
 

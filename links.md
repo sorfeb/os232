@@ -64,3 +64,11 @@ Take it's answers to mathematical problems with a grain of salt.
 * [POSIX thread libraries](https://www.cs.cmu.edu/afs/cs/academic/class/15492-f07/www/pthreads.html)---
   Basic tutorial on how to use POSIX thread libraries to execute your software faster
 
+* [Linux from Scratch](https://www.linuxfromscratch.org/lfs/view/12.0/chapter03/introduction.html)
+  Detailed tutorial on how to design linux from scratch with explanations of each steps!
+
+* [How doing LFS actually looks like](https://www.youtube.com/watch?v=BaON_Hn_0_A)
+  A video about how you look when building your own Linux-based OS from scratch
+
+* [Best way to learn linux](https://www.youtube.com/watch?v=x-3TBVtM0-Y)
+  A video on how to master Linux in no time
